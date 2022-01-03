@@ -1,4 +1,5 @@
 ### Olá! Sou o Adriano Soares! Dev Full-Stack e amo o mundo da tecnologia e programação!
+##
 
 <!--
 **adrianlouis/adrianlouis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +21,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrianlouis&show_icons=true&theme=merko&include_all_commits=true&count_private=true&title_color=42c920&text_color=42c920&icon_color=42c920&bg_color=000000&locale=pt-BR"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianlouis&layout=compact&langs_count=7&theme=merko&locale=pt-BR&title_color=42c920&text_color=42c920&icon_color=42c920&bg_color=000000"/>
 </div>
-
+<img src="https://i.giphy.com/media/zXmbOaTpbY6mA/giphy.webp">
 ##
 
  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
@@ -45,4 +46,3 @@ Here are some ideas to get you started:
   ##
   
 ![Snake animation](https://github.com/adrianlouis/adrianlouis/blob/output/github-contribution-grid-snake.svg)
-
