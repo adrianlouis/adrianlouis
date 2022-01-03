@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img width="100%" src="https://i.giphy.com/media/zXmbOaTpbY6mA/giphy.webp">
 
 <div align="center">
   <a href="https://github.com/adrianlouis">
@@ -22,7 +23,6 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianlouis&layout=compact&langs_count=7&theme=merko&locale=pt-BR&title_color=42c920&text_color=42c920&icon_color=42c920&bg_color=000000"/>
 </div>
 
-<img  src="https://i.giphy.com/media/zXmbOaTpbY6mA/giphy.webp">
 
  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
