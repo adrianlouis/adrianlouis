@@ -21,8 +21,8 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrianlouis&show_icons=true&theme=merko&include_all_commits=true&count_private=true&title_color=42c920&text_color=42c920&icon_color=42c920&bg_color=000000&locale=pt-BR"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianlouis&layout=compact&langs_count=7&theme=merko&locale=pt-BR&title_color=42c920&text_color=42c920&icon_color=42c920&bg_color=000000"/>
 </div>
-<img src="https://i.giphy.com/media/zXmbOaTpbY6mA/giphy.webp">
-##
+
+<img  src="https://i.giphy.com/media/zXmbOaTpbY6mA/giphy.webp">
 
  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
@@ -42,7 +42,5 @@ Here are some ideas to get you started:
   <a href="https://www.twitter.com/LouisKrad"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">	</a>
   <a href="https://www.instagram.com/gwynbleidd_LoboBranco"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="mailto:adrianolcsoares@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  
-  ##
   
 ![Snake animation](https://github.com/adrianlouis/adrianlouis/blob/output/github-contribution-grid-snake.svg)
