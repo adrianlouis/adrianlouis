@@ -1,4 +1,4 @@
-### Olá! Sou o Adriano Soares! Estudante Dev Full-Stack e amo o mundo da tecnologia e programação!
+### Olá! Sou o Adriano Soares! Desenvolvedor Full-Stack e amo o mundo da tecnologia e programação!
 ##
 
 <!--
